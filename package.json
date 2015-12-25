@@ -4,6 +4,7 @@
   "description": "A backend providing a simple API for poems",
   "main": "index.js",
   "scripts": {
+    "start": "node server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/raptox/TheGesichtGedicht-API#readme",
   "dependencies": {
     "body-parser": "^1.14.2",
-    "express": "^4.13.3"
+    "colors": "^1.1.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4"
   }
 }
