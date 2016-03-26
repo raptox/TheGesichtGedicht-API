@@ -22,7 +22,8 @@
     "colors": "^1.1.2",
     "express": "^4.13.3",
     "mongoose": "^4.3.4",
-    "mongoose-random": "^0.1.1"
+    "mongoose-random": "^0.1.1",
+    "restify": "^4.0.3"
   },
   "devDependencies": {
     "chai": "^3.4.1",
